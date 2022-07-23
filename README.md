@@ -1,11 +1,10 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-Hello there, I'm Dan! I'm a Computer Science Student & a Software Developer!
+Hello there, I'm Dan! I'm a freelance Software Engineer!
 
 ## Currently I'm:
 
 - Freelancing as a Java Developer
-- Completing my A Levels in Computer Science & IT
 - Learning Website Development + CSS
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
